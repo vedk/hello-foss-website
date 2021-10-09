@@ -47,10 +47,10 @@ name = "about"
 url = "#about"
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "services"
+#url = "#services"
+#weight = 2
 
 [[Languages.en.menu.main]]
 name = "portfolio"
@@ -59,13 +59,13 @@ weight = 3
 
 [[Languages.en.menu.main]]
 name = "team"
-url = "#team"
+url = "https://wncc-iitb.org/#team"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#url = "#pricing"
+#weight = 5
 
 [[Languages.en.menu.main]]
 name = "blog"
@@ -77,10 +77,10 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "themefisher"
+#url = "https://themefisher.com/"
+#weight = 8
 
 
 ################### French Navigation ########################
