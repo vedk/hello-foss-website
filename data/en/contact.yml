@@ -3,12 +3,12 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : We are always looking for new exciting projects and collaborations. Feel Free to contact us!
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "IIT Bombay, Powai, Mumbai, Maharashtra, 400076"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
@@ -20,12 +20,12 @@ contact:
       info : "Email: hello@meghna.com"
 
 
-  # Contact form
-  contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+  # # Contact form
+  # contact_form:
+  #   enable : true
+  #   form_action : "#" #contact form works with https://formspree.io
+  #   name : "Your Name"
+  #   email : "Your Email"
+  #   subject : "Subject"
+  #   message : "Message"
+  #   submit : "Submit"

@@ -1,15 +1,15 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Available Projects
   portfolio_item :
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+      image : images/portfolio/lock.png
+      image_webp : ""
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+      link : "blog/simple-blog-post-1"
       
     # portfolio item loop
     - name : Sound system
