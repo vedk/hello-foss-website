@@ -33,7 +33,7 @@
 				{{ end }}
 			</div>
 
-			{{"<!-- Contact Form -->" | safeHTML}}
+			<!-- {{"Contact Form" | safeHTML}}
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
@@ -57,7 +57,7 @@
 				</form>
 			</div>
 			{{ end }}
-			{{ else }}
+			{{ else }} -->
 			<div class="contact-details">
 				{{ range .contact_list }}
 				<div class="con-info clearfix">
@@ -66,7 +66,7 @@
 				</div>
 				{{ end }}
 			</div>
-			{{ end }}
+			<!-- {{ end }} -->
 		</div>
 	</div>
 </section>

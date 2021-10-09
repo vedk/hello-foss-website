@@ -13,9 +13,9 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range first 3 (where site.RegularPages "Section" "==" "blog")}}
-			{{ .Render "article"}}
-			{{ end }}
+			{{ .Render "article1"}}
+			{{ .Render "article2"}}
+			{{ .Render "article3"}}
 
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main" href="{{ `blog` | absLangURL }}">{{ i18n "viewAllPost" }}</a>

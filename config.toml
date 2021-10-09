@@ -43,7 +43,7 @@ link = "plugins/lazy-load/lozad.min.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 url = "#about"
 weight = 1
 
@@ -53,12 +53,12 @@ weight = 1
 #weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Portfolio"
 url = "#portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
+name = "Team"
 url = "https://wncc-iitb.org/#team"
 weight = 4
 
@@ -68,12 +68,12 @@ weight = 4
 #weight = 5
 
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Blog"
 url = "#blog"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 
