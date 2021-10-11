@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/main.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Hello FOSS"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  content : "Organised by WnCC, giving you the chance to get your hands dirty with code (Together!)"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Explore projects"
     link : "#portfolio"

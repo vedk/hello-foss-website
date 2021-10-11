@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://vedk.github.io"
-title = "Meghna"
+title = "Hello FOSS"
 theme = "meghna-hugo"
 themesDir = "themes/"
 # post pagination
@@ -53,7 +53,7 @@ weight = 1
 #weight = 2
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Projects"
 url = "#portfolio"
 weight = 3
 
@@ -126,7 +126,7 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/new_logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
@@ -138,7 +138,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/new_logo.png"
 
 # cookies
 [params.cookies]
@@ -177,6 +177,10 @@ link = "https://discord.com/invite/fHUH46xyGD"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/company/wncc-iitb/"
+
+[[params.social]]
+icon = "ti-email" # themify icon pack : https://themify.me/themify-icons
+link = "mailto:wncc@iitb.ac.in"
 
 ################################ English Language ########################
 [Languages.en]
