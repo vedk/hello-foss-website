@@ -38,13 +38,13 @@
 			</div>
 		</div>
 
-		<div class="row shuffle-wrapper justify-content-center">
+		<div class="row row-eq-height shuffle-wrapper d-flex align-items-stretch">
 			{{"<!-- portfolio item -->" | safeHTML}}
 			{{ range .portfolio_item }}
-			<div class="col-lg-4 col-md-6 shuffle-item"
+			<div class="col-lg-4 col-6 col-md-6 shuffle-item"
 				data-groups="[{{range $index, $element:= .categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
-				<div class="portfolio-block mb-4">
-					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
+				<div class="portfolio-block rounded mb-4 shadow-lg">
+					<img class="img-fluid rounded" style= "width: 600px;" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
 						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
 							data-lightbox="image-1">

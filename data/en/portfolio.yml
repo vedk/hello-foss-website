@@ -14,7 +14,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["misc"]
       content : This project will be released soon!
@@ -22,7 +22,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["misc"]
       content : This project will be released soon!
@@ -30,7 +30,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["development"]
       content : This project will be released soon!
@@ -38,7 +38,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["development"]
       content : This project will be released soon!
@@ -46,7 +46,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["machine learning"]
       content : This project will be released soon!
@@ -54,7 +54,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["machine learning"]
       content : This project will be released soon!
@@ -62,7 +62,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["Social Sciences"]
       content : This project will be released soon!
@@ -70,7 +70,7 @@ portfolio:
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/new_lock1.jpeg
+      image : images/portfolio/flat_lock1.jpeg
       image_webp : ""
       categories : ["Social Sciences"]
       content : This project will be released soon!
