@@ -2,10 +2,10 @@
 banner:
   enable : true
   bg_image_webp : ""
-  bg_image : "images/backgrounds/main.jpg"
+  bg_image : "images/backgrounds/bg.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Hello FOSS"
-  content : "Organised by WnCC, giving you the chance to get your hands dirty with code (Together!)"
+  title : "Hello FOSS 2021"
+  content : "Organised by [Web and Coding Club](https://wncc-iitb.org/) IIT Bombay, giving you the chance to get your hands dirty with code together!"
   button:
     enable : true
     label : "Explore projects"

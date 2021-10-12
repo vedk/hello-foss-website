@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Web and Coding Club, IIT Bombay, Powai, Mumbai, Maharashtra
+  title : "Contact Us"
+  subtitle : ""
+  content : ""
 
   # Contact details
 #  contact_list:

@@ -1,77 +1,77 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Available Projects
+  title : Projects
   portfolio_item :
     # portfolio item loop
-    - name : Locked
-      image : images/portfolio/lock.png
+    - name : Bash for Good
+      image : images/portfolio/new_bash_poster.png
       image_webp : ""
       categories : ["misc"]
-      content : This task will be released soon!
-      link : "#"
+      content : "Automating Github commits, Encryption for personal use and more!"
+      link : "https://github.com/wncc/helloFOSS-21-BashForGood"
       #link : "blog/simple-blog-post-1"
       
     # portfolio item loop
     - name : Locked
-      image : images/portfolio/lock.png
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["misc"]
-      content : This task will be released soon!
+      content : This project will be released soon!
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/lock.png
+    - name : Locked
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["misc"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : This project will be released soon!
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/lock.png
+    - name : Locked
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : This project will be released soon!
       link : "#"
       
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/lock.png
+    - name : Locked
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : This project will be released soon!
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/lock.png
+    - name : Locked
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["machine learning"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : This project will be released soon!
       link : "#"
       
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/lock.png
+    - name : Locked
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["machine learning"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : This project will be released soon!
       link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/lock.png
+    - name : Locked
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["Social Sciences"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : This project will be released soon!
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/lock.png
+    - name : Locked
+      image : images/portfolio/new_lock1.jpeg
       image_webp : ""
       categories : ["Social Sciences"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : This project will be released soon!
       link : "#"

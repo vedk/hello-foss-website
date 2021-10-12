@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://vedk.github.io"
+baseURL = "."
 title = "Hello FOSS"
 theme = "meghna-hugo"
 themesDir = "themes/"
