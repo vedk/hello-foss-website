@@ -128,8 +128,8 @@ weight = 8
 [params]
 logo = "images/new_logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Organised by Web and Coding Club IIT Bombay, giving you the chance to get your hands dirty with code together!"
+author = "WnCC IITB"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -189,7 +189,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 WnCC IITB | Created with ❤️ by [WnCC](https://wncc-iitb.org/) based on theme by [Themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2021 WnCC IITB | Created with ❤️ by [WnCC](https://wncc-iitb.org/)"
 
 ################################ France Language ########################
 [Languages.fr]

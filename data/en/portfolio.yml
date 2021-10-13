@@ -13,12 +13,12 @@ portfolio:
       #link : "blog/simple-blog-post-1"
       
     # portfolio item loop
-    - name : Locked
-      image : images/portfolio/flat_lock1.jpeg
+    - name : "Contributive Programming"
+      image : images/portfolio/cp.jpeg
       image_webp : ""
       categories : ["misc"]
-      content : This project will be released soon!
-      link : ""
+      content : "Program to solve the problems around us!"
+      link : "https://github.com/wncc/helloFOSS-21-ContributiveProgramming"
       
     # portfolio item loop
     - name : Locked
