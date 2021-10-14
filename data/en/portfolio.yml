@@ -21,12 +21,12 @@ portfolio:
       link : "https://github.com/wncc/helloFOSS-21-ContributiveProgramming"
       
     # portfolio item loop
-    - name : Locked
-      image : images/portfolio/flat_lock1.jpeg
+    - name : Life Audit
+      image : images/portfolio/lifeaudit1.jpeg
       image_webp : ""
       categories : ["misc"]
-      content : This project will be released soon!
-      link : "#"
+      content : "Collaborate on a python based statistical simulation project revolving around the life of students"
+      link : "https://github.com/wncc/helloFOSS-21-LifeAudit"
       
     # portfolio item loop
     - name : Locked
