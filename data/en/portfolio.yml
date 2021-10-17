@@ -29,12 +29,12 @@ portfolio:
       link : "https://github.com/wncc/helloFOSS-21-LifeAudit"
       
     # portfolio item loop
-    - name : Locked
-      image : images/portfolio/flat_lock1.jpeg
+    - name : d(AI)gnose
+      image : images/portfolio/diagnose.jpeg
       image_webp : ""
-      categories : ["development"]
-      content : This project will be released soon!
-      link : "#"
+      categories : ["machine learning"]
+      content : "Identification and Segmentation of Brain Tumors from MRIs"
+      link : "https://github.com/wncc/helloFOSS-21-dAIgnose"
       
     # portfolio item loop
     - name : Locked
