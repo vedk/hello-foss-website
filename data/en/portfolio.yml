@@ -37,12 +37,12 @@ portfolio:
       link : "https://github.com/wncc/helloFOSS-21-dAIgnose"
       
     # portfolio item loop
-    - name : Locked
-      image : images/portfolio/flat_lock1.jpeg
+    - name : Smart Laundry
+      image : images/portfolio/smart1.jpeg
       image_webp : ""
       categories : ["development"]
-      content : This project will be released soon!
-      link : "#"
+      content : "Find available washing machines in your hostel"
+      link : "https://github.com/wncc/helloFOSS-21-SmartLaundry"
       
     # portfolio item loop
     - name : Locked
